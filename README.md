@@ -4,7 +4,6 @@ I'm a passionate frontend developer based in Cuba, currently working full-time a
 
 ## About Me
 
-- 💼 Currently working at Datamart as a Frontend Developer.
 - 🚀 Specialized in React and Next.js.
 - 🔍 Experienced in working with various UI libraries, with a current preference for Shadcn UI.
 - 👨‍💻 Love collaborating with teams to solve complex problems and deliver high-quality solutions.
