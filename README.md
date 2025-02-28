@@ -50,19 +50,25 @@ I'm a passionate frontend developer based in Cuba. My expertise lies in crafting
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=durantdurant95&theme=transparent&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=durantdurant95&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=durantdurant95&theme=transparent&hide_border=true" />
-</div>
+<p align="center">
+  <a href="https://github.com/durantdurant95">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=durantdurant95&theme=transparent&hide_border=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=durantdurant95&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+    <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=durantdurant95&theme=transparent&hide_border=true" />
+  </a>
+</p>
 
 ## 🏆 GitHub Trophies
 
+<p align="center">
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=durantdurant95&theme=gruvbox&margin-w=15&margin-h=15&column=7" />
+</p>
 
 ## ⏱️ WakaTime Stats
 
+<p align="center">
   <img alt="WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=durantdurant95&theme=transparent&hide_border=true">
+</p>
 
 ## 🌱 Currently Learning
 
