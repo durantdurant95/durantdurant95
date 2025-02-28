@@ -14,39 +14,44 @@ I'm a passionate frontend developer based in Cuba. My expertise lies in crafting
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat-square&logo=ant-design&logoColor=white)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+<!-- Core Languages -->
 
-## 🚀 Featured Projects
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Project 1</h3>
-      <p>A brief description of your first featured project.</p>
-      <a href="https://github.com/yourusername/project1">View Code</a>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Project 2</h3>
-      <p>A brief description of your second featured project.</p>
-      <a href="https://github.com/yourusername/project2">View Code</a>
-    </td>
-  </tr>
-</table>
+<!-- Frontend Frameworks -->
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+<!-- Markup & Styling -->
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<!-- UI Libraries -->
+
+![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+<!-- Backend & APIs -->
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!-- DevOps & Cloud -->
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## 📊 GitHub Stats
 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=durantdurant95&theme=transparent&hide_border=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=durantdurant95&layout=compact&langs_count=8&card_width=400&theme=transparent&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=durantdurant95&layout=compact&langs_count=8&card_width=300&theme=transparent&hide_border=true" />
 
 ## 🏆 GitHub Trophies
 
