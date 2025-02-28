@@ -56,7 +56,7 @@ I'm a passionate frontend developer based in Cuba. My expertise lies in crafting
 
 <!-- ![Snake animation](https://github.com/durantdurant95/durantdurant95/blob/output/github-contribution-grid-snake.svg) -->
 
-![Snake animation](https://raw.githubusercontent.com/{username}/durantdurant95/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/durantdurant95/durantdurant95/output/github-contribution-grid-snake-dark.svg)
 
 ## ⏱️ WakaTime Stats
 
