@@ -52,12 +52,6 @@ I'm a passionate frontend developer based in Cuba. My expertise lies in crafting
 
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=durantdurant95&theme=gruvbox&margin-w=15&margin-h=15&column=7" />
 
-## Github History
-
-<!-- ![Snake animation](https://github.com/durantdurant95/durantdurant95/blob/output/github-contribution-grid-snake.svg) -->
-
-![Snake animation](https://raw.githubusercontent.com/durantdurant95/durantdurant95/output/github-contribution-grid-snake-dark.svg)
-
 ## ⏱️ WakaTime Stats
 
   <img alt="WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=durantdurant95&theme=transparent&hide_border=true">
