@@ -50,9 +50,11 @@ I'm a passionate frontend developer based in Cuba. My expertise lies in crafting
 
 ## 📊 GitHub Stats
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=durantdurant95&theme=transparent&hide_border=true&card_width=300" />
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=durantdurant95&theme=transparent&hide_border=true&card_width=300" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=durantdurant95&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=durantdurant95&theme=transparent&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=durantdurant95&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=durantdurant95&theme=transparent&hide_border=true" />
+</div>
 
 ## 🏆 GitHub Trophies
 
