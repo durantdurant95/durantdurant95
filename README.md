@@ -2,7 +2,7 @@
 
 ![Frontend Developer](https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge)
 
-I'm a passionate frontend developer based in Cuba. My expertise lies in crafting delightful user experiences using React and Next.js. I'm enthusiastic about leveraging cutting-edge technologies to build scalable and performant web applications.
+I'm a passionate frontend developer. My expertise lies in crafting delightful user experiences using React and Next.js. I'm enthusiastic about leveraging cutting-edge technologies to build scalable and performant web applications.
 
 ## 🧐 About Me
 
@@ -62,12 +62,6 @@ I'm a passionate frontend developer based in Cuba. My expertise lies in crafting
 
 <p align="center">
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=durantdurant95&theme=gruvbox&margin-w=15&margin-h=15&column=7" />
-</p>
-
-## ⏱️ WakaTime Stats
-
-<p align="center">
-  <img alt="WakaTime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=durantdurant95&theme=transparent&hide_border=true">
 </p>
 
 ## 🌱 Currently Learning
